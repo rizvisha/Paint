@@ -1,0 +1,79 @@
+# Fill in, commit and push each day.
+# Group Member: Shabeeh Rizvi
+
+Nov 22, 2017
+	Yesterday : 
+	Today     : Did not check e-mail. Did not know assignment was up.
+	Obstacles :
+
+Nov 23, 2017
+	Yesterday : Did not check e-mail. Did not know assignment was up.
+	Today     : Read the assignment. Check each file. Tried to understand what was being asked.
+	Obstacles :
+
+Nov 24, 2017
+	Yesterday : Read the assignment. Check each file. Tried to understand what was being asked.
+	Today     : Worked a 12 hours shift. Could not work on the assignment.
+	Obstacles :
+
+
+Nov 25, 2017
+	Yesterday : Worked a 12 hours shift. Could not work on the assignment.
+	Today     : Doing other assignments.
+	Obstacles :
+
+Nov 26, 2017
+	Yesterday : Did other assignments.
+	Today     : Worked on UserStory3.2.
+	Obstacles :
+	
+Nov 27, 2017
+	Yesterday : Made some progress on UserStory3.2.
+	Today     : Work on UserStory3.2
+	Obstacles :
+	
+Nov 28, 2017
+	Yesterday : Stuck on UserStory3.2.
+	Today     : Work on UserStory3.2 to figure out complete FSM.
+	Obstacles : Yet to figure out the complete FSM.
+	
+Nov 29, 2017
+	Yesterday : Worked on UserStory3.2 and wrote FSM but not passing the tests.
+	Today     : Work on UserStory3.2.
+	Obstacles : Doing something wrong in either the FSM or regex.
+
+Nov 30, 2017
+	Yesterday : Worked on UserStory3.2 made a lot of changes but still not passing tests.
+	Today     : Work on UserStory3.2 and tried to figure out the code to load file in Paint class.
+	Obstacles : Cannot pass the tests.
+
+Dec 1, 2017
+	Yesterday : Worked on UserStory3.2 put some code in to load file in the Paint class action listener. Made some minor changes. Passing 5 tests now.
+	Today     : Will try to finish userstory3.2 up.
+	Obstacles :
+	
+Dec 2, 2017
+	Yesterday : Worked on UserStory3.2. Only test 15 was failing. My lab partner helped me fix a minor bug and I was able to pass all tests.
+	Today     : Work with my partner on other parts.
+	Obstacles :
+
+Dec 3, 2017
+	Yesterday : Worked on other parts.
+	Today     : Finish assignment.
+	Obstacles :
+
+Dec 4, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	

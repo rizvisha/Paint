@@ -1,0 +1,136 @@
+# Fill in, commit and push each day.
+# Group Member: Philip Correia
+
+Oct 23, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 25, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 26, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 27, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 28, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2017
+	Yesterday :
+	Today     : Read and understand starter code, project structure, and code modifications done by group already
+	Obstacles : 
+
+Oct 30, 2017
+	Yesterday :
+	Today     : Worked on and finished UserStory 5, Colour selection works.
+	Obstacles :
+
+Oct 31, 2017
+	Yesterday :
+	Today     : Merged UserStory 5 into master.
+	Obstacles : Not 100% sure but I think someone is working directly on master branch? 
+				Difficult to merge, Classes were added and structure was modified
+
+Nov 1, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 2, 2017
+	Yesterday : 
+	Today     : Review structure, identify possible bug 7. Figured out (from Oct 31st) that
+				a master merge occured. Difficulty in merge from that.
+	Obstacles :
+	
+Nov 3, 2017
+	Yesterday :
+	Today     : Completed Bug 7. updated scrum. Want to create a draw oval, for circles 
+				with independent x and y radius, will create UserStory 8
+	Obstacles :
+
+Nov 4, 2017
+	Yesterday :
+	Today     :	Fixed Polyline, it properly draws a line when dragged now.
+				Add UserStory 8 to draw oval with independent x and y radius.
+				Update: Finished UserStory 8, also added custom colour selector
+				for advanced colour selection alongside previous colour selection.
+				Update2: Created Bug8 in backlog, completed today as well. Fixed
+				thickness selection with all shapes. Thickness increment button
+				can increase thickness above 20, not really a problem but list
+				does not go that far.
+	Obstacles :	
+
+Nov 5, 2017
+	Yesterday :
+	Today     :	Cannot work today
+	Obstacles :	
+	
+Nov 6, 2017
+	Yesterday :
+	Today     :	Review part 2 of the assignment.
+	Obstacles :	Need to get full understanding of concepts talked about in last week's lecture and review code
+	
+Nov 7, 2017
+	Yesterday :
+	Today     :	Userstory 2.1, Bug 2.5 and Bug 2.6 complete, all done in UserStory 2.1 branch
+	Obstacles :	
+	
+Nov 8, 2017
+	Yesterday :
+	Today     :	
+	Obstacles :	
+	
+Nov 9, 2017
+	Yesterday :
+	Today     :	
+	Obstacles :	
+	
+Nov 10, 2017
+	Yesterday :
+	Today     :	
+	Obstacles :	
+	
+Nov 11, 2017
+	Yesterday :
+	Today     :	
+	Obstacles :	
+
+Nov 12, 2017
+	Yesterday :
+	Today     :	
+	Obstacles :	
+
+Nov 13, 2017
+	Yesterday :	
+	Today     :	Read and understand changes done by team. Created and completed
+				Bug 2.7
+	Obstacles : Realized that my earlier work was not pushed, had to discard this
+				work in master, re-learn updates done to master by team,
+				apply Bug 2.7, then merge UserStory 2.1, Bug 2.5 and Bug 2.6 again.
+				
+Nov 14, 2017
+	Yesterday :
+	Today     :	Bug 2.8 finished. Bug 2.3 complete, will try to make polyline fill 
+				when connecting to beginning and filled button is selected.
+				Update: Bug 2.9 complete, Bug 2.10 complete
+				Update: Cleaned up PaintPanel by moving modifiers (color, thickness, 
+				style[filled or outline]) to PaintModel. All shapes when created inside
+				a PaintShape
+				UserStory 2.3 created to implement redo feature
+	Obstacles :

@@ -1,0 +1,126 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Oct 23, 2017
+	Yesterday : Tried to wrap my head around what is going on.
+	Today     : Maybe try to start and see what is being asked.
+	Obstacles : I have no idea what is going on.
+
+Oct 24, 2017
+	Yesterday : Read all the files carefully. Figure out what's going on in the interwoven package. Took a while to read the whole thing and I somewhat have
+				a better idea of what I am supposed to do.
+	Today     : Try to start a UserStory, assign a priority and an estimate.
+	Obstacles : I have no idea where to start.  Fingers crossed.
+
+Oct 25, 2017
+	Yesterday : Completed UserStory1, UserStory2, Bug1 and Bug2.
+	Today     : Start a new 3 day sprint with user stories.
+	Obstacles : Have a midterm on Friday.
+
+Oct 26, 2017
+	Yesterday : Study for midterm.
+	Today     : Study for midterm.
+	Obstacles : MIDTERM MIDTERM MIDTERM
+
+Oct 27, 2017
+	Yesterday : Study for midterm.
+	Today     : Work on UserStory3 and UserStory4
+	Obstacles : Need to figure out how to implement the stories.
+
+Oct 28, 2017
+	Yesterday : Made progress on UserStory3 and UserStory4.
+	Today     : Finalize UserStory3 and work on UserStory4
+	Obstacles : Rectangle comes out filled in the negative directions.
+
+Oct 29, 2017
+	Yesterday : Completed UserStory3 UserStory4 and UserStoryExtra1
+	Today     : Work on Bug3 and Bug4 
+	Obstacles : Nothing in particular as of yet.
+
+Oct 30, 2017
+	Yesterday : Worked solely on Bug3.
+	Today     : Try to complete Bug3.
+	Obstacles : Too much to do.
+
+Oct 31, 2017
+	Yesterday : Finished Bug3. Improved the design by removing if blocks in PaintPanel. Made a seperate ActionListener for ShapeChooserPanel.
+	Today     : Will try to work on JavaDocs.
+	Obstacles : Nothing in particular yet.
+
+Nov 1, 2017
+	Yesterday : Halloween. Took day off. Worked on other subjects.
+	Today     : Try to work on javadocs.
+	Obstacles : N/A
+	
+Nov 2, 2017
+	Yesterday : Studying for math midterm.
+	Today     : Try to work on javadocs.
+	Obstacles : N/A
+	
+Nov 3, 2017
+	Yesterday : Finished UserStory6, it had some bugs in it.
+	Today     : Move onto JavaDoc.
+	Obstacles : Nothing in particular as of yet.
+
+Nov 4, 2017
+	Yesterday : Started working on JavaDocs. Finished quite a few of them. Renamed JavaDoc branch to JavaDoc+CleanUp+TweaksToFinalProgram so that I can fix the few
+				few bugs that were created along the way because of how different branches interact with each other. They may work fine alone but cause a bug when
+				interacting. This will be a copy of master and the bugs will be fixed for the team.
+	Today     : Work on the above mentioned branch more.
+	Obstacles : Lots of work to do.
+
+Nov 5, 2017
+	Yesterday : Finisehd JavaDoc and clean up and tweaks on everything yesterday.
+	Today     : Go over/proof read code.
+	Obstacles : Nothing in particular as of yet.
+
+Nov 6, 2017
+	Yesterday : Finished A2P1.
+	Today     : Try to read over A2P2. See what needs to be done. Do appropriate readings. 
+	Obstacles : Nothing in particular as of yet.
+
+Nov 7, 2017
+	Yesterday : Brain stormed possible approaches.
+	Today     : Play with code. 
+	Obstacles : Nothing in particular as of yet.
+
+		
+Nov 8, 2017
+	Yesterday : Tried to figure out what to do.
+	Today     : Tried a bunch of things to  make the story work. It didn't
+	Obstacles : Need to figure out how to implement the command design pattern.
+	
+Nov 9, 2017
+	Yesterday : Did a lot of Bug2.1.
+	Today     : Try to finish it up.
+	Obstacles : Nothing in particular as of yet.
+	
+Nov 10, 2017
+	Yesterday : Finished and merged Bug2.1. Brainstormed Bug2.4 a little. Tried changing a few things
+	Today     : Work on Bug2.4. See what happens.
+	Obstacles : Nothing in particular as of yet.
+	
+Nov 11, 2017
+	Yesterday : Played with buttons to improve the shape chooser panel. Did not work out.
+	Today     : Work on Bug2.4. See what happens.
+	Obstacles : Nothing in particular as of yet.
+	
+Nov 12, 2017
+	Yesterday : Worked on other assignments.
+	Today     : Work on Bug2.4.
+	Obstacles : Nothing in particular as of yet.
+
+Nov 13, 2017
+	Yesterday : Completed Bug2.4.
+	Today     : Try to make the GUI nicer.
+	Obstacles : Nothing in particular as of yet.
+		
+Nov 14, 2017
+	Yesterday : Added shortkerys.
+	Today     : Try to make the GUI nicer.
+	Obstacles : Nothing in particular as of yet.
+	
+Nov 15, 2017
+	Yesterday : Cleaned up GUI. Added JLabels that tell you what the current style and shape is.
+	Today     : Forgot to scrum before 12. lmao. My bad.
+	Obstacles :

@@ -1,0 +1,78 @@
+ # Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Oct 23, 2017
+	Yesterday : Nothing was done yet
+	Today     : We created our branches
+	Obstacles : We haven't met up yet as group
+
+Oct 24, 2017
+	Yesterday : Created branches.
+	Today     : We sent out a group email to try and communicate with the others. 
+	We're still waiting on a couple responses from group members and were looking to 
+	start the  first story.
+	Obstacles : We haven't all met up yet so its hard to coordinate tasks. We'll try 
+	and setup a group chat to help with this.
+
+Oct 25, 2017
+	Yesterday :Group email
+	Today     :Nothing done today prep for midterm
+	Obstacles :midterm
+
+Oct 26, 2017
+	Yesterday :Nothing done today prep for midterm
+	Today     :Nothing done today prep for midterm
+	Obstacles :midterm
+
+Oct 27, 2017
+	Yesterday :Studied
+	Today     :Studied for midterm
+	Obstacles :Midterm plus other tests and assignments due sooner
+
+Oct 28, 2017
+	Yesterday :Relaxed after midterm plus other school commitments 
+	Today     :Nothing
+	Obstacles :Time because I have work on weekends for 8 hours + commute
+
+Oct 29, 2017
+	Yesterday :Nothing
+	Today     :Attempted to implement new button but it didnt clear until your next move
+	Obstacles :Time because I have work on weekends for 8 hours + commute
+
+Oct 30, 2017
+	Yesterday :New button and open buttons
+	Today     :Tring to do scribble but its not even close to working 
+	Obstacles :Not knowing how to seperate lines
+
+Oct 31, 2017
+	Yesterday :Scribble
+	Today     :Tried to do work for scribble but its frustrating also didnt have much time
+	today.
+	Obstacles :Scribbbble
+
+Nov 1, 2017
+	Yesterday :Little work on Scribble 
+	Today     :Can't get scribble to work. One of the group members made the code look 
+	different so have to get used to that. On the plus it looks cleaner and simpler.
+	Obstacles :Scribble -.-
+	
+Nov 2, 2017
+	Yesterday :
+	Today     :Got fill/outline implemented easily enough they're however still really buggy
+	Obstacles :Bugs and scribble.........
+	
+Nov 3, 2017
+	Yesterday : Fill/outline
+	Today     : Got thickness worked out but its not perfect 
+	Obstacles : Problem with all objects changing if one changes
+
+Nov 4, 2017
+	Yesterday : thickness
+	Today     : got some help from a group member on figuring out the problem and he was quite helpful so its now working properly
+	Obstacles : work 
+
+Nov 5, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
